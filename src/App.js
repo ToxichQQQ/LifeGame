@@ -2,8 +2,6 @@ import React, { useEffect, useState } from "react";
 import { StartPage } from "./components/StartPage";
 import { Game } from "./components/Game";
 import styles from "./main.module.css";
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import { Routes } from "react-router";
 
 function App() {
   const [genetation, setGeneration] = useState(1);

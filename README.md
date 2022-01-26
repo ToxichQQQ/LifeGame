@@ -12,7 +12,7 @@ In this project I created the popular game [LIFE](https://ru.wikipedia.org/wiki/
 
 To test the game, you need to enter the following commands:
 
-- ####`git clone git@github.com:ToxichQQQ/LifeGame.git`
+- #### `git clone git@github.com:ToxichQQQ/LifeGame.git`
 - #### `npm install && npm start`
 - #### `electron .`
 

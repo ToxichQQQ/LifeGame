@@ -13,8 +13,8 @@ In this project I created the popular game [LIFE](https://ru.wikipedia.org/wiki/
 To test the game, you need to enter the following commands:
 
 - #### `git clone git@github.com:ToxichQQQ/LifeGame.git`
-- #### `npm install && npm start`
-- #### `electron .`
+- #### `npm install`
+- #### `electron .` or `npm start`
 
 After these actions, the localhost with the game will start
 
